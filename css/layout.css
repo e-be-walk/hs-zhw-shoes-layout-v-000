@@ -30,12 +30,12 @@ img {
 #col-1 {
   float: left;
   width: 32%;
+  padding: 5px;
 }
 
 #col-2 {
   float: left;
   width: 66%;
-  padding-right: 5px;
 }
 
 #col-3 {
