@@ -302,23 +302,4 @@ footer {
 		text-decoration: underline;
 	}
 
-	#col-1 {
-	  display: inline;
-	  float: left;
-	  width: 32%;
-	}
-
-	#col-2 {
-	  display: inline-block;
-	  float: left;
-	  width: 65%;
-	}
-
-	.clearfix:after {
-	  content: ".";
-	  display: block;
-	  clear: both;
-	  visibility: hidden;
-	  height: 0;
-	  line-height: 0;
-	}
+	
