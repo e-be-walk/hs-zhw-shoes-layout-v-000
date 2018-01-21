@@ -44,6 +44,6 @@ img {
 
 }
 
-[class*="col-"] {
+[id*="col-"] {
   margin-left: 2%;
 }
