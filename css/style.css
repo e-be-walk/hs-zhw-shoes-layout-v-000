@@ -302,13 +302,13 @@ footer {
 		text-decoration: underline;
 	}
 
-	#col-1 {
+	.col-1 {
 	  display: inline;
 	  float: left;
 	  width: 32%;
 	}
 
-	#col-2 {
+	.col-2 {
 	  display: inline-block;
 	  float: left;
 	  width: 65%;
