@@ -27,7 +27,7 @@ img {
   max-width: 100%;
 }
 
-#shadow {
+.shadow {
   float: left;
+  width: 32%;
 }
-
