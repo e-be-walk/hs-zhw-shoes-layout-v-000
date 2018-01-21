@@ -35,8 +35,9 @@ img {
 #col-2 {
   float: left;
   width: 66%;
+  padding-right: 5px;
 }
 
 #col-3 {
-  
+
 }
