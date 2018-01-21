@@ -28,4 +28,11 @@ img {
 }
 
 .shadow #col-1 {
+  float: left;
+  width: 32%;
+}
+
+.shadow #col-2 {
+  float: left;
+  width: 66%;
 }
