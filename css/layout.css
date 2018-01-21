@@ -27,16 +27,16 @@ img {
   max-width: 100%;
 }
 
-#col-1 {
+.col-1 {
   display: inline-block;
   float: left;
-  width: 32%;
+  width: 31%;
   padding: 10px;
   margin-left: 2%;
   margin-bottom: 1%;
 }
 
-#col-2 {
+.col-2 {
   display: inline-block;
   float: left;
   width: 65%;
