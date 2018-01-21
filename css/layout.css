@@ -29,7 +29,7 @@ img {
 
 .col-1 {
   display: inline-block;
-  float: right;
+  float: left;
   width: 31%;
   padding: 10px;
   margin-left: 2%;
