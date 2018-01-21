@@ -23,5 +23,11 @@
 }
 
 /* Posititoning Classes */
+img {
+  max-width: 100%;
+}
 
+#shadow {
+  float: left;
+}
 
